@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TICHI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TICHI-1.0.war">
+      <element id="artifact" artifact-name="TICHI:war exploded" />
+    </root>
+  </artifact>
+</component>
